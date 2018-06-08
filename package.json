@@ -1,0 +1,23 @@
+{
+  "name": "top-viagens",
+  "version": "1.0.0",
+  "description": "t2 de linguagens 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomazerlach/T2-Ling2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomazerlach/T2-Ling2/issues"
+  },
+  "homepage": "https://github.com/thomazerlach/T2-Ling2#readme",
+  "dependencies": {
+    "fullpage.js": "^2.9.7",
+    "particles.js": "^2.0.0"
+  }
+}
